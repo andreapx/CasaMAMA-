@@ -1,0 +1,3 @@
+ - Funzione per controllare coerenza dati inseriti (il controllo ad ora c'è solo su nuovi inserimenti, non su aggiornamenti)
+ - mysqli_real_escape_string per tutti gli inserimenti (per ora c'è solo su nuovi inserimenti, non su aggiornamenti)
+ -                         ds
